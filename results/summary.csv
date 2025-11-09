@@ -1,0 +1,6 @@
+metric,key,value
+sentiment_count,negative,3
+sentiment_count,positive,2
+emotion_count,joy,2
+emotion_count,sadness,1
+emotion_count,anger,1
